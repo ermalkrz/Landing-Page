@@ -16,3 +16,13 @@ A simple landing page showcasing different types of dogs. Built with HTML and CS
 1. Clone the repository:
 ```bash
 git clone https://github.com/ermalkrz/Landing-Page.git
+
+2. Open index.html in your browser.
+
+## License
+
+This project is open source under the MIT License.
+
+## Author
+
+Ermal Krz
